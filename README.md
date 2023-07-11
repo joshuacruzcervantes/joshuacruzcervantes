@@ -18,6 +18,10 @@
             🌐 Feel free to connect with me on LinkedIn:
             <a href="https://www.linkedin.com/in/joshuacruzcervantes/" target="_blank" rel="noopener noreferrer" style="color: #0077b5; text-decoration: none;">Here's my LinkedIn profile</a>
         </p>
+        <p style="font-size: 16px;">
+            ✉️ You can also reach me via email at:
+            <a href="mailto:joshuacruzcervantes@gmail.com" style="color: #0077b5; text-decoration: none;">joshuacruzcervantes@gmail.com</a>
+        </p>
     </div>
 </body>
 </html>
