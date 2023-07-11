@@ -4,5 +4,5 @@
 
     ### Connect with me:
 
-[![LinkedIn Logo](https://example.com/linkedin_logo.png)](https://www.linkedin.com/in/joshuacruzcervantes/)
+[![LinkedIn Logo](https://drive.google.com/file/d/1CYufnAglfsbo_S0o74gvnrfi3LUubM8i/view?usp=drive_link)](https://www.linkedin.com/in/joshuacruzcervantes/)
 Here's my [LinkedIn profile](https://www.linkedin.com/in/joshuacruzcervantes/)
