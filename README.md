@@ -13,5 +13,6 @@ def generate_profile():
 # Generate the profile content
 profile_content = generate_profile()
 
-# Display the profile content
-print(profile_content)
+# Write the profile content to a README.md file
+with open("README.md", "w") as file:
+    file.write(profile_content)
